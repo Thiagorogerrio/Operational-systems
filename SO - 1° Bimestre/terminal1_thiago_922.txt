@@ -1,0 +1,138 @@
+    1  mkdir thiago
+    2  ls
+    3  cd ..
+    4  mkdir /home/alunoifal/thiagomelo
+    5  mkdir disciplinas
+    6  ls
+    7  cd ..
+    8  cd .
+    9  cd ..
+   10  ls
+   11  cd .
+   12  mkdir thiago
+   13  ls
+   14  pwd
+   15  ls
+   16  mkdir thiago
+   17  pwd
+   18  mkdir thiago
+   19  pwd
+   20  mkdir /home/alunoifal/thiago
+   21  ls
+   22  pwd
+   23  ls
+   24  pwd
+   25  mkdir /home/vboxuser/thiago
+   26  ls
+   27  cd thiago
+   28  cd .
+   29  cd ..
+   30  mkdir thiago
+   31  ls
+   32  mkdir /thiago
+   33  cd /
+   34  ls
+   35  mkdir /home/alunoifal/thiago
+   36  thiago ls
+   37  cd thiago
+   38  mkdir thiago
+   39  cd ~
+   40  ls /
+   41  pwd 
+   42  /thiago ls
+   43  /thiago
+   44  ls
+   45  cd thiago
+   46  ls
+   47  cd .
+   48  cd ..
+   49  pwd
+   50  mkdir /home/vboxuser/thiago
+   51  cd /home/vboxuser/thiago
+   52  mkdir disciplinas
+   53  mkdir SO
+   54  cd thiago
+   55  ls
+   56  cd .
+   57  ls
+   58  cd ..
+   59  cd .
+   60  cd thiago
+   61  ls
+   62  cp
+   63  cp SO_2
+   64  man
+   65  ls
+   66  ls .
+   67  mkdir SO_temp
+   68  rm SO_temp SO_2023
+   69  cd disciplinas
+   70  mkdir SO
+   71  cd SO
+   72  mkdir SO_temp
+   73  mv SO_temp SO_2023
+   74  cd ..
+   75  cd .
+   76  cd ..
+   77  cd thiago
+   78  cd .
+   79  cd ..
+   80  mkdir tu
+   81  cd tu
+   82  rm tu
+   83  cd ..
+   84  rm tu
+   85  pwd
+   86  rm tu
+   87  ls
+   88  cd thiago
+   89  cd ..
+   90  pwd
+   91  cd thiago
+   92  cd ..
+   93  /home/alunoifal/thiago
+   94  mkdir /home/alunoifal/thiago
+   95  mkdir /home
+   96  pwd
+   97  mkdir alunoifal
+   98  mkdir alunoifal/thiago
+   99  mkdir alunoifal
+  100  ls
+  101  cd alunoifal
+  102  mkdir thiago
+  103  cd thiago
+  104  cd .
+  105  cd ..
+  106  ls
+  107  mkdir home
+  108  cd home
+  109  mkdir alunoifal
+  110  cd home/alunoifal
+  111  cd alunoifal
+  112  mkdir thiago
+  113  cd thiago
+  114  mkdir disciplinas
+  115  mkdir SO
+  116  ls
+  117  mkdir SO_temp
+  118  ls
+  119  mv SO_temp SO_2023
+  120  ls
+  121  mv SO_2023 disciplinas
+  122  ls
+  123  rm SO
+  124  rmdir SO
+  125  ls
+  126  history > terminal1_thiago_922.txt
+  127  ls
+  128  cd SO_2023
+  129  ls
+  130  cd disciplinas
+  131  ls
+  132  cd SO_2023
+  133  ls
+  134  history > notas.txt
+  135  touch notas.txt
+  136  touch > notas.txt
+  137  touch notas1.txt
+  138  history > terminal1_thiago_922.txt
